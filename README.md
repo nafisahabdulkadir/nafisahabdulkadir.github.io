@@ -35,19 +35,16 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
+## Professional Developmental Training & Awards
+- Tech4Dev women Fellowship (Data Science and AI) Track 2023
+- ALX-T Udacity Data Analyst Nanodegree 2022
+- AWS Machine Learning engineer Certification 2022
+- Data Analyst in Python certification on DataCamp in Collaboration 2022 withIngressive 4 Good.
+- Training on Data science and Artificial Intelligence by Tech4Dev 2021 Women Boot camp
+- Research Writing in Sciences by INASP in Collaboration with Author Aid, 2021
+ ## Publications
 1. Abraham E Evweipkaefe And Nafisat Abdulkadir, A Diabetes Mellitus Prediction Model Using Some Supervised Learning Algorithms A Case Study of Nigeria, African Journal of Information Systems (AJIS) January, 2023.
 
 2. Habib Mohammed, Nafisat Abdulkadir and Abdulbasit Ahmed, A Recommender System for the Nigerian Fashion Industry Based on Big Data, AFIT 1st Faculty of Science International Conference November 2022.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Youtube Homepage](https://www.youtube.com/@nafisahabdulkadir4329)
