@@ -1,7 +1,8 @@
 # Data Scientist & Lecturer
 
 #### Technical Skills: Python, SQL, Java
-#### Research Interests: AI for Health, Stem Education, Software Engineering
+#### Research Interests: 
+AI for Health, Stem Education, Software Engineering
 #### Bio
 
 I am a PhD student and lecturer in computer science. I advocates for women in tech and girls in STEM. leads initiatives, including a regional drive in Kogi State, Nigeria. With a background in academia and technology, applying data science to sectors like health, and ultimately aiming to emerge as a top woman leader in global technology.
