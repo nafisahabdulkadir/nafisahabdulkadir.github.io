@@ -4,7 +4,7 @@
 #### Research Interests: AI for Health, Stem Education, Software Engineering
 #### Bio
 
-I am a PhD student and lecturer in computer science, advocates for women in tech and girls in STEM. She leads initiatives, including a regional drive in Kogi State, Nigeria. With a background in academia and technology, she applies data science to sectors like health, aiming to emerge as a top woman leader in global technology.
+I am a PhD student and lecturer in computer science. I advocates for women in tech and girls in STEM. leads initiatives, including a regional drive in Kogi State, Nigeria. With a background in academia and technology, applying data science to sectors like health, and ultimately aiming to emerge as a top woman leader in global technology.
 ## Education
 - Ph.D., Computer Science | Federal University, Lokoja (_In View_)								       		
 - M.Sc, Computer Science	| Nigerian Defence Academy (_September 2021_)	 			        		
