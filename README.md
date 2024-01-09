@@ -1,11 +1,10 @@
-# Data Scientist
+# Data Scientist & Lecturer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
+#### Technical Skills: Python, SQL, Java
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Computer Science | Federal University, Lokoja (_In View_)								       		
+- M.Sc, Computer Science	| Nigerian Defence Academy (_September 2021_)	 			        		
+- B.Sc., Computer Science | Ahmadu Bello University, Zaria (_October 2016_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
