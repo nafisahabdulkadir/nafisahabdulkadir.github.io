@@ -1,7 +1,7 @@
 ## Tech Girls Region Head | Lecturer
 #### Technical Skills: Python, SQL, Java
 #### Research Interests: 
-AI for Health, Stem Education, Software Engineering
+AI for Health, STEM Education, Software Engineering.
 #### Bio
 
 I am a PhD student and lecturer in computer science, advocating for women in tech and girls in STEM, leading initiatives, including a regional drive in Kogi State, Nigeria. With a background in academia and technology, I apply data science to sectors like health while ultimately aiming to emerge as a top woman leader in global technology.
@@ -14,13 +14,13 @@ I am a PhD student and lecturer in computer science, advocating for women in tec
 **Assistant Lecturer @ Confluence University of Science & Technology, Osara, Kogi State  (_April 2023 - Present_)**
 - Teaching, Research, Mentoring  and Supervision of Undergraduate Students.
 - 
-**Junior Data Analyst @ Gems Consultion Limited, Kaduna (_January 2020 - December 2020_)**
+**Junior Data Analyst @ GEMS Consultion Limited, Kaduna (_January 2020 - December 2020_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Extract valuable insights from diverse datasets and Crafting visualizations for clear communication of findings.
   
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Software Developer @ Lionheart Software Solutions Limited (_January 2019 - December 2019_)**
+- Actively participatied in the complete software development lifecycle, encompassing design, coding, and testing.
+- Collaboratively engaged with cross-functional teams, emphasizing code reviews, documentation, and knowledge sharing.
 
 ## Volunteership/Community Service
 #### Being a Female is not a Limitation
