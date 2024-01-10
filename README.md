@@ -43,7 +43,8 @@ Harmony School students' participation in the 2023 TechGirls Drive in Nigeria ma
 - Data Analyst in Python certification on DataCamp in Collaboration 2022 withIngressive 4 Good.
 - Training on Data science and Artificial Intelligence by Tech4Dev 2021 Women Boot camp
 - Research Writing in Sciences by INASP in Collaboration with Author Aid, 2021
- ## Publications
+
+## Publications
 1. Abraham E Evweipkaefe And Nafisat Abdulkadir, A Diabetes Mellitus Prediction Model Using Some Supervised Learning Algorithms A Case Study of Nigeria, African Journal of Information Systems (AJIS) January, 2023.
 
 2. Habib Mohammed, Nafisat Abdulkadir and Abdulbasit Ahmed, A Recommender System for the Nigerian Fashion Industry Based on Big Data, AFIT 1st Faculty of Science International Conference November 2022.
