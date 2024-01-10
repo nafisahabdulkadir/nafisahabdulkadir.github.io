@@ -21,15 +21,21 @@ I am a PhD student and lecturer in computer science, advocating for women in tec
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Volunteership/Community Service
-### Tech Girls Advocacy Drive
-In October 2023, Harmony Schools in Lokoja, Nigeria, hosted a Tech Girls Advocacy Drive, aimed at promoting technology education and empowerment among female students. The event showcased the talents and potential of young girls in the field of technology, fostering interest and enthusiasm for STEM (Science, Technology, Engineering, and Mathematics) subjects. Activities included hands-on workshops, mentorship sessions, and discussions on the importance of gender diversity in the tech industry. By engaging with female students, the event sought to break stereotypes and inspire a new generation of women in tech. The drive not only highlighted the capabilities of young girls in Harmony Schools but also emphasized the significance of inclusivity and gender equality in the ever-evolving world of technology."
-![Tech Girls Drive](/assets/img/Picture1.jpg)
+#### Being a Female is not a Limitation
+Nafisat passionately engages in educating and inspiring girls in STEM, emphasizing her dedication to fostering interest and empowerment among young females in science, technology, engineering, and mathematics fields.
+![Tech Girls Drive](/assets/img/Picture7.jpg)
 
-#[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+#### Tech Girls Advocacy Drive at Army Day Secondary School, Lokoja, Kogi State, Nigeria
+My teammates and I with the honor of meeting with the Principal and prefects of Army Day Secondary School in Lokoja, Nigeria, for a special Tech 4 Dev Advocacy visit. The focus of the event was to sensitize and raise awareness about the importance of Girls in ICT. The team engaged in discussions, workshops, and activities aimed at encouraging female students to pursue careers in technology. The collaboration with the school's leadership and prefects underscored the significance of collective efforts in promoting gender inclusivity in the tech sector. By fostering this awareness, the event aimed to inspire and empower young girls to explore opportunities in Information and Communication Technology (ICT), paving the way for a more diverse and inclusive future in the field
+![Tech Girls Drive](/assets/img/Picture11.jpg)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+#### Tech Girls Advocacy Drive at Claret Secondary School, Kabba, Kogi State, Nigeria
+The October 2022 Tech Girls Advocacy Drive at Claret Secondary School in Kabba, Nigeria, was a significant event promoting technology education among female students. The initiative aimed to inspire and empower young girls to explore opportunities in the tech industry. The event featured engaging activities such as workshops, mentorship sessions, and discussions on the importance of gender diversity in STEM fields. The drive not only showcased the talents of female students but also emphasized breaking gender stereotypes in technology. By fostering interest and enthusiasm for tech-related subjects, the advocacy drive contributed to creating a more inclusive and diverse environment in the field of technology for the students of Claret Secondary School in Kabba, Nigeria.
+![Tech Girls Drive](/assets/img/Picture3.jpg)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+#### Tech Girls Advocacy Drive at Harmony Primary, School, Lokoja Kogi State, Nigeria
+Harmony School students' participation in the 2023 TechGirls Drive in Nigeria marked a significant engagement in technology and female empowerment. The event included workshops, discussions, and activities, fostering skills exploration and inspiring STEM careers, contributing to a more inclusive tech environment.
+![Tech Girls Drive](/assets/img/Picture6.jpg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
