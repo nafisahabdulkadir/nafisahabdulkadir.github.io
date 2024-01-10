@@ -1,5 +1,4 @@
-# Data Scientist & Lecturer
-
+# Kogi State Region Head Tech Girls Drive | Data Scientist | Lecturer
 #### Technical Skills: Python, SQL, Java
 #### Research Interests: 
 AI for Health, Stem Education, Software Engineering
@@ -36,13 +35,6 @@ The October 2022 Tech Girls Advocacy Drive at Claret Secondary School in Kabba, 
 #### Tech Girls Advocacy Drive at Harmony Primary, School, Lokoja Kogi State, Nigeria
 Harmony School students' participation in the 2023 TechGirls Drive in Nigeria marked a significant engagement in technology and female empowerment. The event included workshops, discussions, and activities, fostering skills exploration and inspiring STEM careers, contributing to a more inclusive tech environment.
 ![Tech Girls Drive](/assets/img/Picture6.jpg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Professional Developmental Training & Awards
 - Tech4Dev women Fellowship (Data Science and AI) Track 2023
