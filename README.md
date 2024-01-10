@@ -22,6 +22,10 @@ I am a PhD student and lecturer in computer science, advocating for women in tec
 - Actively participatied in the complete software development lifecycle, encompassing design, coding, and testing.
 - Collaboratively engaged with cross-functional teams, emphasizing code reviews, documentation, and knowledge sharing.
 
+**ICT Teacher @ Evat Model Schools, Kaduna, Nigeria (_September 2016 - April 2017_)**
+- Taught high school students Python, MIT App Inventor, and scratch programming.
+- Designed their curriculum to meet state of the art standard.
+
 ## Volunteership/Community Service
 #### Being a Female is not a Limitation
 Nafisat passionately engages in educating and inspiring girls in STEM, emphasizing her dedication to fostering interest and empowerment among young females in science, technology, engineering, and mathematics fields.
