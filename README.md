@@ -1,4 +1,4 @@
-# Tech Girls Drive Region Head | Data Scientist | Lecturer
+## Tech Girls Region Head | Data Scientist | Lecturer
 #### Technical Skills: Python, SQL, Java
 #### Research Interests: 
 AI for Health, Stem Education, Software Engineering
