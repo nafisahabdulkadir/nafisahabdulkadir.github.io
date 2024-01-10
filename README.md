@@ -21,8 +21,11 @@ I am a PhD student and lecturer in computer science, advocating for women in tec
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Volunteership/Community Service
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Tech Girls Advocacy Drive
+In October 2023, Harmony Schools in Lokoja, Nigeria, hosted a Tech Girls Advocacy Drive, aimed at promoting technology education and empowerment among female students. The event showcased the talents and potential of young girls in the field of technology, fostering interest and enthusiasm for STEM (Science, Technology, Engineering, and Mathematics) subjects. Activities included hands-on workshops, mentorship sessions, and discussions on the importance of gender diversity in the tech industry. By engaging with female students, the event sought to break stereotypes and inspire a new generation of women in tech. The drive not only highlighted the capabilities of young girls in Harmony Schools but also emphasized the significance of inclusivity and gender equality in the ever-evolving world of technology."
+![Tech Girls Drive](/assets/img/Picture1.jpg)
+
+#[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
